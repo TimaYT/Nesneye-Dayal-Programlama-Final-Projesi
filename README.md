@@ -121,7 +121,7 @@ Proje **katmanlı mimari** kullanılarak geliştirilmiştir:
 
 2️⃣ Projeyi Klonla
 ```bash
-git clone https://github.com/kullaniciAdi/Nesneye-Dayal-Programlama-F-NAL.git
+git clone https://github.com/TimaYT/Nesneye-Dayal-Programlama-Final-Projesi.git
 ```
 ---
 3️⃣ Maven Bağımlılıklarını Yükle
